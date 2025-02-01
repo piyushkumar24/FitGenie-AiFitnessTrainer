@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+:root{
+  --col1: #ffc20e;
+}
+
+body{
+  background-color: black;
+}
+
+.mainhead1 {
+  -webkit-text-stroke: 1px var(--col1);
+  color: transparent;
+  font-size: 10rem;
+  font-weight: 1000;
+  text-align: center;
+  line-height: 1; /* Adjust this value as needed */
+  letter-spacing: 0.1em; /* Adjust this value to increase or decrease the width */
+  /* color: #ffc20e; */
+}
+
+
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: var(--col1);
+  box-shadow: inset 0 0 6px rgba(0,0,0,.5);
+}
