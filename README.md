@@ -3,7 +3,8 @@
 ## Project Overview
 
 **FitGenie** is an innovative web application that combines advanced AIML (Artificial Intelligence and Machine Learning) techniques with modern web development to help users achieve their fitness and health goals. Developed as part of our college hackathon project, FitGenie leverages a sophisticated AI model to analyze health metrics, provide personalized exercise and nutrition recommendations, and offer real-time form correction through video analysis. The application integrates multiple technologies to offer a seamless and interactive experience.
--This is my info of my hackathon project built by our **Team HashitOut** in my college during 6th semester in the **Code4change Hackathon** hosted by club **IEEE SSIT**.
+
+This is my info of my hackathon project built by our **Team HashitOut** in my college during 6th semester in the **Code4change Hackathon** hosted by club **IEEE SSIT**.
 
 
 ## Team Members
