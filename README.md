@@ -1,4 +1,4 @@
-# FitGenie: All-Inclusive Fitness & Health Management Application
+# FitGenie: AI Fitness Trainer
 
 ## Project Overview
 
